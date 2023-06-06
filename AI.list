@@ -1,10 +1,8 @@
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai.nooc.ink
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,openaiapi
@@ -21,14 +19,8 @@ DOMAIN-SUFFIX,openai-api-files-public.s3-us-west-2.amazonaws.com
 DOMAIN-SUFFIX,openai-api-files-prod-public.s3-us-west-2.amazonaws.com
 DOMAIN-SUFFIX,openai-models-public.s3.us-west-2.amazonaws.com
 DOMAIN,openaicom.imgix.net
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOAMIN-SUFFIX,platform.openai.com
-DOAMIN-SUFFIX,beta.openai.com
-DOMAIN-SUFFIX,pay.openai.com
-#DOMAIN-SUFFIX,f7tk.com
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,datadoghq
 IP-CIDR,104.196.64.0/18, no-resolve
 IP-CIDR,35.224.16.0/20, no-resolve
 IP-CIDR,35.192.0.0/12, no-resolve
@@ -36,6 +28,8 @@ IP-CIDR,35.208.0.0/13, no-resolve
 IP-CIDR,35.224.0.0/16, no-resolve
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,invoice.stripe.com
@@ -43,12 +37,14 @@ DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,every1dns.net
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,linguee.com
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,slack-core.com
 DOMAIN-SUFFIX,slack-edge.com
@@ -64,3 +60,8 @@ DOMAIN-SUFFIX,slackhq.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,theb.ai
 DOMAIN-KEYWORD,revenuecat
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,sdan.io
+DOMAIN-SUFFIX,askyourpdf.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,vercel.app
