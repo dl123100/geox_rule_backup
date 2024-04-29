@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "res.cdn.office.net",
+        "res-h3.public.cdn.office.net",
+        "res-1.cdn.office.net",
+        "res-geo.cdn.office.net",
+        "shell.cdn.office.net",
+        "statics.teams.cdn.office.net",
+        "outlook-1.cdn.office.net",
+        "b.c2r.ts.cdn.office.net",
+        "f.c2r.ts.cdn.office.net",
+        "download.microsoft.com",
+        "download.prss.microsoft.com",
+        "download.visualstudio.microsoft.com",
+        "download.windowsupdate.com",
+        "learn.microsoft.com",
+        "build.microsoft.com",
+        "devblogs.microsoft.com",
+        "cnupgrade.microsoft.com",
+        "developer.microsoft.com",
+        "dl.delivery.mp.microsoft.com",
+        "docs.microsoft.com",
+        "fs.microsoft.com",
+        "officecdn.microsoft.com",
+        "sdx.microsoft.com",
+        "storeedgefd.dsx.mp.microsoft.com",
+        "wscont1.apps.microsoft.com",
+        "wscont2.apps.microsoft.com",
+        "www.microsoft.com",
+        "x-dash-public.rec.mp.microsoft.com",
+        "cn.windowssearch.com",
+        "ctldl.windowsupdate.com"
+      ],
+      "domain_suffix": [
+        ".download.prss.microsoft.com",
+        ".download.windowsupdate.com",
+        ".dl.delivery.mp.microsoft.com"
+      ],
+      "domain_keyword": "officecdn"
+    }
+  ]
+}
